@@ -5,7 +5,7 @@ Jeopardy Game for class project, java
 
 Assignment 2 Jeopardy Game
 11:40 PM 2015-03-01
-Lucia Okeh - 7702444
+Lucia 
 
 CONENTS OF THIS FILE
 ---------------------
